@@ -1,4 +1,4 @@
-# Sales-Process-Automation-
+# Sales-Process-Automation
 
 Objective:
 To provide a comprehensive explanation of the approach, tools, and skills used to automate the process of web scraping, email sending, and integration with Flask.
