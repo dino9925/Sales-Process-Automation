@@ -7,7 +7,7 @@ import urllib.parse
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
 sender_email = "luciferinreallife@gmail.com"
-sender_password = "gpls jema hunp kazu"
+sender_password = "gpls ---- ---- kazu"
 
 with open("companies.csv", newline='') as csvfile:
     reader = csv.DictReader(csvfile)
