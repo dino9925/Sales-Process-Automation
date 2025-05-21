@@ -1,0 +1,19 @@
+INFO:root:Email opened: dhruvdave2112@gmail.com at 2025-05-21 20:05:25.679282
+INFO:werkzeug:172.20.10.1 - - [21/May/2025 20:05:25] "GET /track_open?email=dhruvdave2112@gmail.com HTTP/1.1" 200 -
+INFO:root:Email opened: dhruvdave0108@gmail.com at 2025-05-21 20:15:04.297677
+INFO:werkzeug:172.20.10.1 - - [21/May/2025 20:15:04] "GET /track_open?email=dhruvdave0108@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2025 00:02:10] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Email opened:  at 2025-05-22 01:25:11.327423
+INFO:werkzeug:172.20.10.4 - - [22/May/2025 01:25:11] "GET /track_open?email= HTTP/1.1" 200 -
+INFO:root:Email opened:  at 2025-05-22 01:26:39.650898
+INFO:werkzeug:172.20.10.4 - - [22/May/2025 01:26:39] "GET /track_open?email= HTTP/1.1" 200 -
