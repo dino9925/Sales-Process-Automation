@@ -31,6 +31,6 @@ Approach & Process
 - Created endpoints to trigger email sending.
 - Ran the application locally for testing and demo purposes.
 
-3. Testing and Debugging:
+3. Testing and Debugging: 
 
 - Ensured smooth coordination between scraping, data storage, and email modules.
