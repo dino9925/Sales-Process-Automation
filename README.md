@@ -1,9 +1,9 @@
 # Sales-Process-Automation-
 
-#Objective:
+Objective:
 To provide a comprehensive explanation of the approach, tools, and skills used to automate the process of web scraping, email sending, and integration with Flask.
 
-#Skills Used:
+Skills Used:
 - Python Programming: Core scripting language for all modules.
 - Selenium (Web Scraping): Used Selenium WebDriver to automate dynamic website interactions and extract structured data.
 - Email Automation: Used Python's smtplib and email.message to send personalized emails automatically.
@@ -11,7 +11,7 @@ To provide a comprehensive explanation of the approach, tools, and skills used t
 - Data Handling: Processed and stored scraped data using pandas and exported it to CSV.
 - Automation & Error Handling: Incorporated time.sleep, exception handling to ensure reliability.
 
-#Approach & Process
+Approach & Process
 
 1. Web Scraping with Selenium:
  
